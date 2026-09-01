@@ -10,7 +10,7 @@ Video walkthroughs of my production AI/ML platforms — built solo, end-to-end.
 
 🔗 [Live Platform](https://marketlenspro.app) · 📂 [Source Code](https://github.com/ituhub/TradeAnalytics)
 
-<video src="https://github.com/ituhub/project-demos/raw/main/MarketLensPro_project_demo.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/dd439441-a6a4-4baf-9217-f7c3ed791385
 
 **What it does:**
 - 8-model ML ensemble (Transformer, CNN-LSTM, TCN, Informer, N-BEATS, LSTM-GRU, XGBoost, Stacking) for trade signal generation across 19 financial instruments
@@ -30,7 +30,7 @@ Video walkthroughs of my production AI/ML platforms — built solo, end-to-end.
 
 📂 [Source Code](https://github.com/ituhub/EnergyLens)
 
-<video src="https://github.com/ituhub/project-demos/raw/main/EnergyLens_project_demo.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/f1623652-3f4e-4007-8c80-0284bb2fc4c5
 
 **What it does:**
 - 7-model ensemble forecasting DK1 Nordic electricity spot prices with ~200 engineered features
