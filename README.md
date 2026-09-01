@@ -1,6 +1,6 @@
 # 🎬 Project Demos
 
-Video walkthroughs of my production AI/ML platforms — built solo, end-to-end.
+Video walkthroughs of my production AI/ML platforms — built end-to-end.
 
 ---
 
